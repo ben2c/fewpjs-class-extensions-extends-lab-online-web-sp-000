@@ -9,6 +9,10 @@ class Polygon {
   
   get perimeter() {
     let total = 0
-      for (let i = )
+      for (let i = 0; arr.length; i ++){
+        total += arr[i]
+      }
+    return total;
   }
+  
 }
