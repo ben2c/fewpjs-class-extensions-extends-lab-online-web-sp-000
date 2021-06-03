@@ -17,5 +17,6 @@ class Polygon {
 }
 
 class Triangle extends Polygon {
-  if (this.count !== 3) return;
+  if (this.arr.length !== 3) return;
+  
 }
