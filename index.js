@@ -8,6 +8,6 @@ class Polygon {
   }
   
   get perimeter() {
-    
+    let sum = 0
   }
 }
