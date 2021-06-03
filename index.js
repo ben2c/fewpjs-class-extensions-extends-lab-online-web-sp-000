@@ -14,5 +14,6 @@ class Polygon {
       }
     return total;
   }
-  
 }
+
+class Triangle extends 
