@@ -19,7 +19,7 @@ class Polygon {
 class Triangle extends Polygon {
   if (this.arr.length !== 3) return;
     let side1 = this.arr[0]
-    let side2 = this.sides[1]
-    let side3 = this.sides[2]
+    let side2 = this.arr[1]
+    let side3 = this.arr[2]
     return ((side1 + side2 > side3) && (side1 + side3 > side2) && (side2 + side3 > side1))
 }
