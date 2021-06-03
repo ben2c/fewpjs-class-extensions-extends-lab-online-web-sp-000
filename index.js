@@ -8,7 +8,7 @@ class Polygon {
   }
   
   get perimeter() {
-    let sides = 0
-    
+    let total = 0
+      for 
   }
 }
