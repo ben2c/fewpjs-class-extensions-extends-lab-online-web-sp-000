@@ -9,6 +9,6 @@ class Polygon {
   
   get perimeter() {
     let total = 0
-      for 
+      for (let i = )
   }
 }
